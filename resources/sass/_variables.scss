@@ -1,0 +1,46 @@
+// Font
+$font-noto-sans: 'Noto Sans JP', sans-serif;
+$font-hiragino: 'Hiragino Sans', 'Noto Sans JP', sans-serif;
+
+// Color
+$color-black: #212B36;
+$color-black-dark: #0D315D;
+$color-blue-dark: #22618B;
+$color-turquoise: #45A1C2;
+$color-blue-lighter: #D6F6FF;
+$color-blue-lighter-gray: #E5F5FF;
+$color-blue-light: #35A7FF;
+$color-blue-darker: #1A61B7;
+$color-green-lighter: #D4FCD4;
+$color-green-light: #29D16C;
+$color-green-dark: #149662;
+$color-white: #FFFFFF;
+$color-grey-light-secondary: #637381;
+$color-grey-light-disabled: #919EAB;
+$color-grey-100: #F9FAFB;
+$color-grey-400: #C4CDD5;
+$color-grey-200: #F4F6F8;
+$color-approx-cello: #454F5B;
+$color-orange: #F88F44;
+$color-orange-light: #F8B585;
+$bg-gray-light: #DFE3E8;
+$bg-gray-base: #F0F7FA;
+$border-blue: #91E1EC;
+$box-shadow-gray: #919EAB29;
+$light-grayish-cyan: #DBFBFB;
+$light-gray: #E8EBEE;
+$color-red: #B72151;
+$color-red-note: #FF425B;
+$color-red-required: #E02B2B;
+$color-black-neutral: #1D283F;
+$color-blue: #566a89;
+$bg-gray: #FBFBFD;
+$border-gray: #E8EBF1;
+$bg-blue-light: #00a0c2;
+
+// Screen width
+$screen-pc-min-width: 768px;
+$screen-sp-max-width: $screen-pc-min-width - 1px;
+$screen-figma-min-width: 1440px;
+$screen-figma-inner-min-width: 1170px;
+$screen-figma-inner-min-width-bigger: $screen-figma-min-width - 80px * 2;
